@@ -1,0 +1,25 @@
+Task1.
+Minim 2 componente in views care sa fie accesibile prin rutare din meniul lateral
+
+Task1.1
+Prima componenta:
+Display la un videoclip (video)
+Display la 1 sau mai multe imagini (v-img)
+(imaginile si videoclip-urile sa se afle in folder-ul de ui)
+(done)
+
+Task1.2
+A doua componenta:
+Sa existe 2 liste (v-list + v-for)
+Lista A contine (orice obicet cu minim 3 propietati)/utilizator
+Lista B nu contine nimic
+Sa existe un buton care adauga un obiect din A in B
+Se poate adauga fie aleator, fie butonul poate exista in dreptul fiecarui obiect (la cea din urma v-for si cheie unica)
+Sa existe un buton in dreptul listei B care face un request in backend
+Backendul va crea un fisier cu obiectele trimise sau le va introduce intr-o baza de date
+(done)
+
+Bonus:
+Redirect de pe /dashboard la o pagina cu continut de "welcome to my app"
+Sa va folositi tot de Router-view
+(done)
